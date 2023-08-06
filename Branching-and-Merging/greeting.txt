@@ -2,3 +2,5 @@ WELCOME
 adding a new line
 
 Hi There
+
+Hi from the newBranch
